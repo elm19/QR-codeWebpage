@@ -1,10 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import SmallContainer from './components/SmallContainer';
+import Qr from './components/Qr';
 
 function App() {
   return (
-    <div>
-      <h1>is it working</h1>
+    <div className='container-fluid d-flex justify-content-center align-items-center'>
+      <SmallContainer />
     
     </div>
   );
