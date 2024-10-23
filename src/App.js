@@ -1,7 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import SmallContainer from './components/SmallContainer';
-import Qr from './components/Qr';
 
 function App() {
   return (

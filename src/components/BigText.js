@@ -1,7 +1,7 @@
 
 
 function BigText(){
- return <p className="text-center big-text">Improve your front-end skills by building projects</p>
+ return <h1 className="text-center big-text">Improve your front-end skills by building projects</h1>
 }
 
 export default BigText;
